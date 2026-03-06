@@ -11,7 +11,7 @@ Fully style an HTML5 data table using CSS.
 1. **DO NOT** use a css framework like bootstrap for your css. 
 1. Add some appropriate headlines, titles, and any other content you think is appropriate to the document.
 1. Add html class and id hooks to make your css light and compact. 
-1. Get data from here: https://nssdc.gsfc.nasa.gov/planetary/factsheet/
+1. Get data from here: https://web.archive.org/web/20240229025337/https://nssdc.gsfc.nasa.gov/planetary/factsheet/
 1. Use any 4 of the planets (not pluto or small bodies).
 1. Combine the data from any 4 planet pages into a single html page with one single table. I do not want separate tables/pages.
 1. Use any seven data fields: i.e., Mass, Diameter, Distance from sun, etc.
