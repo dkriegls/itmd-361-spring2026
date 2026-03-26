@@ -111,6 +111,7 @@
 
 #main-navbar ul li a:hover {
 	background-color: #000;
+  color: red;
 }
 
 #content-wrapper {
